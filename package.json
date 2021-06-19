@@ -8,7 +8,7 @@
     "test": "test",
     "dev": "nodemon index.js"
   },
-  "author": "hend",
+  "author": "samar",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.7"
